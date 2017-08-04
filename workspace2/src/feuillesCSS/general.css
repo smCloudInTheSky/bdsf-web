@@ -1,0 +1,165 @@
+/* Style Global */
+
+/*Fonts*/
+.dragon {
+  font-family: 'eg_dragon_caps_regular';
+}
+
+.chevalier {
+  font-family: 'blackknightflfregular';  
+  font-size: 2em;
+}
+
+.chevaliersmall {
+  font-family: 'blackknightflfregular';  
+  font-size: 1.25em;
+}
+
+.old {
+  font-family: 'old_londonregular';
+  font-size: 3em;
+}
+
+.oldmedium {
+  font-family: 'old_londonregular';
+  font-size: 1.75em;
+}
+
+.oldsmall {
+  font-family: 'old_londonregular';
+  font-size: 1.25em;
+}
+
+.blazed {
+  font-family: 'blazedregular'; 
+  font-size: 2em;
+}
+
+.hobbit {
+  font-family: 'hobbiton_brushhahobbitonbrush'; 
+  font-size: 1.5em;
+}
+
+.LSDA {
+  font-family: 'ringbearermedium'; 
+  font-size: 1.5em;
+}
+
+.rune {
+  font-family: 'elder_futharkregular';
+  font-size: 2em;
+}
+
+.starcraft {
+  font-family: 'starcraftnormal';
+  /*font-size: 2em;*/
+}
+
+.starwars {
+  font-family: 'star_jediregular';
+}
+
+.aurabesh {
+  font-family: 'webfontregular';
+  /*font-size: 2em;*/
+}
+
+.elfique {
+  font-family: 'tengwar_annatarregular';
+}
+
+.elfiquebold {
+  font-family: 'tengwar_annatarbold';
+}
+
+.elfiqueitalic {
+  font-family: 'tengwar_annataritalic';
+}
+
+.elfiquebolditalic {
+  font-family: 'tengwar_annatarbold_italic';
+}
+
+.tron {
+  font-family: 'tr2ntr2n';
+}
+
+/*Styles*/
+body {
+  padding-bottom: 40px;
+  color: white;
+  /*background-size: 1920px 1080px;*/
+  /*background-image: url("./Trou_Noir_2.jpg");*/ /*Ne fonctionne pas ici...*/
+  background-color: black;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: repeat;
+}
+
+legend {
+  color: white;
+}
+
+form {
+  align-content: center;
+  display:inline-block;
+	vertical-align:baseline;
+	/*police par défaut des formulaires (avec taille appropriée ==> équivalent de la class "oldsmall")*/
+	/*font-family: 'old_londonregular';
+	font-size: 1.25em;*/
+}
+
+input {
+  align-content: center;
+  display:inline-block;
+	vertical-align:baseline;
+  color:red;
+}
+
+button {
+  color:red;
+}
+
+select {
+  align-content: center;
+  display:inline-block;
+	vertical-align:baseline;
+  color:red;
+}
+
+/*video {
+  width: 100%;
+  height: auto;
+  display: flex;
+}*/
+
+.erreur {
+  z-index: 1; /*On place tous les messages devant*/
+  color: #FC0000;
+  text-align: center;
+}
+
+.success {
+  z-index: 1; /*On place tous les messages devant*/
+  color: #26FC00;
+  text-align: center;  
+}
+
+.easter_eggs {
+  align-content: center;
+  z-index: -1; /*On place toutes les images derrière*/
+  /*float: right;*/
+  position: absolute;
+}
+
+.text-muted{
+  color: #FCF400;
+}
+
+strong {
+  Font-Weight : Bold;
+}
+
+/*#rubriques_index {*/
+/*  background-color: black;*/
+/*}*/

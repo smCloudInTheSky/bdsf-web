@@ -1,0 +1,11 @@
+/* Contrôle du Caroussel */
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > .modesauron > img,
+.carousel-inner > .item > .modesauron > a > img,
+/*.carousel-inner > .item > .modesauron > .overlay > img,*/
+.carousel-inner > .item > a > img {
+      width: 800;
+      height: 500;
+      margin: auto;
+  }

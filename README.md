@@ -1,8 +1,8 @@
 # bdsf-web
 
-####################################################################
-#TODO LIST DU SITE DE LA MORT QUI TUE MEME LES SEIGNEURS DU MAL !!!#
-####################################################################
+    //##################################################################//
+    //TODO LIST DU SITE DE LA MORT QUI TUE MEME LES SEIGNEURS DU MAL !!!//
+    //##################################################################//
 
 Il faudrait peut-être commencer à ranger mieux les pages php... et dans ce cas remettre à jours les liens qui y mènent ^^'
 
